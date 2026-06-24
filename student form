@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Student Profile</title>
+    
+</head>
+
+<body>
+    <fieldset>
+    <center>
+    <h1>Student Profile</h1>
+    </center>
+    <div>
+        
+        <center><img src="c:\Users\thamm\Downloads\WhatsApp Image 2026-06-10 at 9.11.57 PM.jpeg" width="200" height="200" alt="Profile Image"></center>
+        
+        <fieldset><label><b>Profile summary:</b></label>
+        <p>Enthusiastic fresher with strong computer skills and knowledge of MS Office, data entry, and documentation. Quick learner with excellent attention to detail, seeking an opportunity to contribute to efficient business operations.</p></fieldset>
+        <hr>
+        <h3>Personal Details</h3>
+        <label>Mahesh</label><br/>
+    <label>mahesh2@gmil.com</label><br/>
+    <label>9866487971</label><br/>
+   
+</div>
+<div>
+    <hr>
+    <h3>Address</h3>
+    <label>123-A</label><br/>
+    <label>Madhuranagar</label><br/>
+    <label>Hyderbad,<i>500038</i></label>
+   
+</div>
+<div>
+    <hr>
+    <h3>Education</h3>
+    <label><i>Gitam University</i></label><br/>
+    <label><i>Btech CSE CS</i></label><br/>
+    <label> 7.01 CGPA</label>
+    
+</div>
+<div>
+    <hr>
+    <h3>Skills</h3><br/>
+    <label>HTML</label><br/>
+    <label>SQL</label><br/>
+    <label>JAVA</label>
+</div>
+<div>
+    <hr>
+    <h3>Certifications</h3>
+    <label>Machine Learning Using Python</label><br/>
+    <label>Machine Learning foundation and Certification</label><br/>
+    <label>Full Stack Web Development</label>
+</div>
+<hr>
+<h3>Strengths</h3>
+<label>Quick learner</label><br/>
+<label>Positive Thinking</label>
+<hr>
+<h3>Languages Known</h3>
+<label>English , Hindi , Telugu</label>
+<hr>
+<h3>Projects</h3>
+<label><b>1.Wild Life Intrusion Detection System in Farms Using Vision Transformer Model</b></label>
+<p>This project focuses on developing a Todo List web application using the MERN stack to help users manage their tasks efficiently. It provides features such as creating, updating, deleting, and tracking tasks through a simple and interactive user interface. The application demonstrates full-stack development by seamlessly integrating frontend, backend, and database technologies into a single system.</p>
+<label><b>2.Intrusion Detection System for In-Vehicle Networks Using Machine Learning</b></label>
+<p>Designing a machine learning-based IDS to detect and classify cyberattacks such as DoS, Spoofing, Replay, and Fuzzing within automotive networks (CAN Bus / Automotive Ethernet). Developing data preprocessing, feature extraction, and real-time detection modules to identify anomalies with high accuracy while ensuring low latency and scalability.</p>
+   </fieldset> 
+
+   
+</body>
+</html>
